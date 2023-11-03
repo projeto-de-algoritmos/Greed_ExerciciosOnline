@@ -14,7 +14,7 @@ Neste projeto, iremos resolver exercícios do site [LeetCode](https://leetcode.c
 
 ## Vídeo de apresentação
 
-https://github.com/projeto-de-algoritmos/Greed_ExerciciosOnline/assets/Greed_Apresentacao.mp4
+https://github.com/projeto-de-algoritmos/Greed_ExerciciosOnline/assets/12275797/397bb4ee-13d5-4332-ba0c-17de646cebcd
 
 ## Screenshots
 
