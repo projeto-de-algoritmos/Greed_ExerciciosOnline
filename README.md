@@ -34,6 +34,17 @@ Exercício que envolve o uso de greed - interval scheduling e foi feito principa
 
 ![](assets/img/exec02.png)
 
+## Exercício 3 - 
+
+Dificuldade: Médio <br>
+Link: [JumpGame](https://leetcode.com/problems/jump-game/description/)
+![](assets/img/exec03.png)
+
+## Exercício 4 - Course Schedule III
+Dificuldade: Difícil <br>
+Link: [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)
+![](assets/img/exec04.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 
