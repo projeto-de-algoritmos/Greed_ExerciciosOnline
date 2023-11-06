@@ -12,7 +12,9 @@
 ## Sobre 
 Neste projeto, iremos resolver exercícios do site [LeetCode](https://leetcode.com/) que envolvem o uso de algoritmos ambiciosos. 
 
-## [Link da Apresentação]()
+## Vídeo de apresentação
+
+https://github.com/projeto-de-algoritmos/Greed_ExerciciosOnline/assets/Greed_Apresentacao.mp4
 
 ## Screenshots
 
@@ -34,10 +36,11 @@ Exercício que envolve o uso de greed - interval scheduling e foi feito principa
 
 ![](assets/img/exec02.png)
 
-## Exercício 3 - 
+## Exercício 3 - JumpGame II
 
 Dificuldade: Médio <br>
-Link: [JumpGame](https://leetcode.com/problems/jump-game/description/)
+Link: [JumpGameII](https://leetcode.com/problems/jump-game-ii/)
+
 ![](assets/img/exec03.png)
 
 ## Exercício 4 - Course Schedule III
